@@ -1,0 +1,11 @@
+.background{
+background-image: url("bg1.png");
+background-position:center ;
+background-size: cover;
+}
+
+#mi_canva{
+    border-width: 10px; 
+    background-color: white;
+    border-style: ridge;
+}
